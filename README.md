@@ -1,3 +1,10 @@
+# About Me
+## My Interests
+I am interested in Cybersecurity and IT. I also like running/track.
+## Websites I Recommend
+- [ChatGPT](www.chatgpt.com) - ChatGPT is a great AI model which can be used to help you on grammar, writing essays, quizzing you on topics, and it also has custom GPTs designed for specific subjects like Math and Chemistry.
+- [Markdown Tutorial](www.markdowntutorial.com) - This is a great place to learn markdown syntax, useful for making README files such as this one.
+
 Rudra Shende
 rshende@my.waketech.edu
 GitHub account description: this account was created for the purposes of this assignment.
