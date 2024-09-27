@@ -24,3 +24,8 @@ classDef red fill:#FF0000, stroke: #000000, stroke-width: 2px, color: #FFF
     Y --> Z
     Z --> End
 ```
+
+# Number Guessing Flowchart
+## This flowchart was created using Mermaid, a language used to create diagrams and flowcharts, such as this one.
+
+> This flowchart contains a 'start' and 'end', a loop in the middle for the number of attempts, and if the user exceeds 5 attempts, the game terminates and prints the correct number. Otherwise it will keep looping until the user guesses the correct number, at which point the game will terminate and tell the user that the number was guessed correctly.
